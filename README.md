@@ -25,7 +25,7 @@ These problems are taken directly from my university course labs to document my 
 
 ## 📂 Repository Structure
 
-algorithms-and-coding-labs/ ├── Lab1_Basics/ # Foundational problems ├── Lab2_Sorting/ # Sorting algorithms and analysis ├── Lab3_DynamicProgramming/ # Dynamic programming problems ├── Lab4_GraphAlgorithms/ # Graph algorithms and visualizations ├── Lab5_AdvancedTopics/ # Advanced topics in algorithms ├── utilities/ # Reusable utilities and test case generators ├── README.md # Overview of the repository ├──
+algorithms-and-coding-labs/ ├── Lab1_Basics/ # Foundational problems ├── Lab2_Sorting/ # Sorting algorithms and analysis ├── Lab3_DynamicProgramming/ # Dynamic programming problems ├── Lab4_GraphAlgorithms/ # Graph algorithms and visualizations ├── Lab5_AdvancedTopics/ # Advanced topics in algorithms ├── utilities/ # Reusable utilities and test case generators ├── README.md # Overview of the repository 
 
 
 Each folder contains:
@@ -42,9 +42,8 @@ Each folder contains:
    git clone https://github.com/yourusername/algorithms-and-coding-labs.git
    cd algorithms-and-coding-labs
 2. **Navigate to a folder**:
-3. **Run code**:gcc filename.c -o output
+3. **Run code**:
+gcc filename.c -o output
 ./output
 
-4. 
-5. 
-
+   
